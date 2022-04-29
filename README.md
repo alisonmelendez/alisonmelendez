@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect)
 
-- 🌱 I’m currently learning **BEM and Responsive Design**
+- 🌱 I’m currently learning **BEM and Data Structures & Algorithms**
 
 - 📝 I regularly write articles on [https://medium.com/@alisonmelendez132](https://medium.com/@alisonmelendez132)
 
