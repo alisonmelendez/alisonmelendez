@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋😄, I'm Alison!</h1>
-<h3 align="center">I'm a Frontend Developer looking for employment opportunities</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisonmelendez&label=Profile%20views&color=0e75b6&style=flat" alt="alisonmelendez" /> </p> -->
+<h3 align="center">A frontend developer looking for employment opportunities</h3>
 
 - 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect)
 
@@ -9,13 +7,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alisonmelendez132](https://medium.com/@alisonmelendez132)
 
-- 💬 Ask me about **Sass and React**
+- 💬 Ask me about **SCSS and React**
 
 - 📫 How to reach me **alisonmelendez132@gmail.com**
 
 - ⚡ Fun fact **I am currently building myself a new mechanical keyboard!**
 
-<!-- ### Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
