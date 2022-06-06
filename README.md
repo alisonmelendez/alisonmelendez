@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [https://medium.com/@alisonmelendez132](https://medium.com/@alisonmelendez132)
+- 📝 I regularly write articles on [Medium](https://medium.com/@alisonmelendez132)
+<!-- https://medium.com/@alisonmelendez132 -->
 
 - 💬 Ask me about **SCSS and React**
 
@@ -15,6 +16,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creativity and Code](https://medium.com/@alisonmelendez132/steal-like-an-programmer-b16b183e27dc)
+
+- [Creating CSS Animations Using Sprite Sheets](https://medium.com/@alisonmelendez132/creating-css-animations-using-sprite-sheets-6fa8b171fe2e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
