@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋😄, I'm Alison!</h1>
 <h3 align="center">A frontend developer looking for employment opportunities</h3>
 
-- 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect)
+<!-- - 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect) -->
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
