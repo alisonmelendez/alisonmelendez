@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋😄, I'm Alison!</h1>
-<h3 align="center">A frontend developer</h3>
+<!-- <h3 align="center">A frontend developer</h3> -->
 
 <!-- - 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect) -->
 
@@ -14,7 +14,7 @@
 
 <!-- - ⚡ Fun fact **I am currently building myself a new mechanical keyboard!** -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Creativity and Code](https://medium.com/@alisonmelendez132/steal-like-an-programmer-b16b183e27dc) -->
 
