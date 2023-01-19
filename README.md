@@ -1,24 +1,24 @@
 <h1 align="center">Hey 👋😄, I'm Alison!</h1>
-<h3 align="center">A frontend developer looking for employment opportunities</h3>
+<h3 align="center">A frontend developer</h3>
 
 <!-- - 🔭 I’m currently working on [connect](https://github.com/alisonmelendez/connect) -->
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+<!-- - 🌱 I’m currently learning **Data Structures & Algorithms** -->
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@alisonmelendez132)
+<!-- - 📝 I regularly write articles on [Medium](https://medium.com/@alisonmelendez132) -->
 <!-- https://medium.com/@alisonmelendez132 -->
 
-- 💬 Ask me about **SCSS and React**
+<!-- - 💬 Ask me about **SCSS and React** -->
 
-- 📫 How to reach me **alisonmelendez132@gmail.com**
+<!-- - 📫 How to reach me **alisonmelendez132@gmail.com** -->
 
 <!-- - ⚡ Fun fact **I am currently building myself a new mechanical keyboard!** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Creativity and Code](https://medium.com/@alisonmelendez132/steal-like-an-programmer-b16b183e27dc)
+<!-- - [Creativity and Code](https://medium.com/@alisonmelendez132/steal-like-an-programmer-b16b183e27dc) -->
 
-- [Creating CSS Animations Using Sprite Sheets](https://medium.com/@alisonmelendez132/creating-css-animations-using-sprite-sheets-6fa8b171fe2e)
+<!-- - [Creating CSS Animations Using Sprite Sheets](https://medium.com/@alisonmelendez132/creating-css-animations-using-sprite-sheets-6fa8b171fe2e) -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
